@@ -40,6 +40,8 @@ Inside these blog posts should be notes from books and articles that I've read a
 
 [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) by Harvard
 
+[The Lean Startup](https://www.amazon.ca/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) by Eric Ries
+
 Any personal notes on technologies that I've used 
 
     - C#, Ionic, VB.net, NodeJS, Angular, Bootstrap, JS, Java, F#, C, Python, Velocity, Tomcat, SQL, Mongo, 
