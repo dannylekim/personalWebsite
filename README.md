@@ -50,6 +50,20 @@ Any personal notes on technologies that I've used
         - Coding interview sites like Firecode as an example or exercism
         - Any other articles
 
+    - Topics should also include things like 
+        - Testing
+        - Architecture
+        - Modularity
+        - Abstraction
+        - Version Control
+        - Team Management
+        - Data Structures and Algorithms
+        - Graphs and trees and associated algorithms
+        - Recursion
+        
+
+       
+
 ### Integrated Web Applications 
 
 if I have any 
