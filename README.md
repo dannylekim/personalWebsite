@@ -1,16 +1,20 @@
 # Personal Website 
 
-In this personal website, I'd like to use it as a form of resume or CV that gives employers and other connections a chance to get to know me and my skill set. This code will also be open source for those who would like to use it under Apache 2.0 or MIT depending on the projects integrated onto this website. The website itself in terms of its technologies and everything will be in MIT. 
+My goal is to create a personal website that displays my achievements and current capabilities. In this manner, I will have 2 websites. 
+
+1) This will be my personal website which doubles as a resume. It will outline who I am, and what my projects have been and display them all. 
+
+2) My blog which will be hosted elsewhere and maintained by me but not coded by me as that requires a lot of work for minimal gain.
 
 ## Sections 
 
-Below describe the sections placed on the site
+Below describe the sections placed on the site and or other websites
 
 ### About me 
 
      These include Jobs, a blurb, technologies I know and other tidbits
 
-### Blog Posts 
+### Blog Website
 
 Inside these blog posts should be notes from books and articles that I've read and general stylistic things. These include: 
 
@@ -67,6 +71,9 @@ Any personal notes on technologies that I've used
 ### Integrated Web Applications 
 
 if I have any 
+
+
+### Websites that I've created either to evaluate new technologies or otherwises
 
 ### Projects 
 
