@@ -81,5 +81,27 @@ Including old and new in a bunch of blurbs and links
 
 ### Contact me 
 
+### blog posts
+
+summary overview of (tech stack, website, features, what it did, problems/solutions it ran into): 
+
+- labowless
+- billsnap 
+- kantasky
+- petripete
+
+
+- scrum processes of billsnap 
+- handling threading and sockets in labowless 
+- development blogs/sprint blogs of billsnap 
+
+
+gatsby + netlify + contentful 
+
+- need a logo 
+- then nice pictures of each project 
+
+
+
 
 
